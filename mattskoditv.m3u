@@ -1,7 +1,7 @@
 #EXTINF:-1,ABC 7
 http://207.244.227.225:25461/hoteles/123456/137
 #EXTINF:-1,ABC NY
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://supersonictv.live:25461/903310/034806/71676
+http://supersonictv.live:25461/live/903310/034806/22041.m3u8
 #EXTINF:-1,5USA HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
 #EXTINF:-1,BBC AME HD (ENG)
