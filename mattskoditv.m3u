@@ -37,7 +37,7 @@ http://stream.tvtap.live:8081/live/us-fox.stream/playlist.m3u8
 #EXTINF:-1,FREEFORM
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/548
 #EXTINF:-1,FX
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/708
+https://www.streamaway.net/us/fx/index.m3u8
 #EXTINF:-1,HGTV (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/564
 #EXTINF:-1,History HD (ENG)
