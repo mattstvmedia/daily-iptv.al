@@ -1,13 +1,11 @@
-#EXTINF:-1,ABC 7
-http://supersonictv.live:25461/live/903310/034806/71676.m3u8
 #EXTINF:-1,ABC NY
-http://supersonictv.live:25461/live/903310/034806/22041.m3u8
+http://xdgo.live:8080/phklaura/jzns3dn46R/19165
 #EXTINF:-1,5USA HD
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/481
 #EXTINF:-1,BBC AME HD (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/679
 #EXTINF:-1,Bravo (ENG)
-plugin://plugin.video.f4mTester/?streamtype=TSDOWNLOADER&amp;url=http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/489
+http://xdgo.live:8080/phklaura/jzns3dn46R/2323
 #EXTINF:-1,CBSNY
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/498
 #EXTINF:-1,CBSNEWYORK
@@ -47,7 +45,7 @@ http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Q
 #EXTINF:-1,Lifetime HD (ENG)
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/567
 #EXTINF:-1,MSG NETWORK 
-https://cdn.sha-256.org/2022820295/orxdmi2yNF/572
+http://xdgo.live:8080/phklaura/jzns3dn46R/22142
 #EXTINF:-1,MSG NETWORK PLUS
 https://msggo-live.net/v1/manifest/1a954fea9a9e371ab24e8226b756520725bb3f2d/MSGN-LIVE-001/0de3a193-6319-41b5-a4fd-5563f1d65399/1.m3u8
 #EXTINF:-1,MSNBC HD ENG
